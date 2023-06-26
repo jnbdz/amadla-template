@@ -15,13 +15,6 @@ When it comes to the documentation what is found in this repository is a general
 
 The documentation found in the [Amadla CLI](https://github.com/AmadlaOrg/amadla-cli) repository is a documentation for the Amadla CLI. It also covers some of the Amadla concepts but the documentation found here goes into more details.
 
-## :toolbox: Technologies Used
-### :factory: IaC Tools
-- :key: [Vault](https://www.vaultproject.io/) - For storing and managing secrets.
-- :national_park: [Terraform](https://www.terraform.io/) - For creating the infrastructure.
-- :package: [Packer](https://www.packer.io/) - Build automated machine images.
-- :hammer_and_wrench: [Ansible](https://www.ansible.com/) - Is a RedHat open-source tool for IT automation.
-
 ## :books: Documentations
 - :card_index_dividers: [html](https://amadla.org/Amadla-Framework/docs/latest/html/en/)
 - :briefcase: [pdf](https://amadla.org/Amadla-Framework/docs/latest/pdf/en/)
