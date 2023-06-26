@@ -143,21 +143,21 @@
   <rect
      style="fill:#585858;fill-opacity:1;stroke-width:1.30639"
      id="rect1826"
-     width="672.98175"
+     width="746.98175"
      height="115.62724"
-     x="332.61163"
+     x="251.61163"
      y="863.93909" />
   <text
      xml:space="preserve"
      style="font-size:134.928px;fill:#000000;fill-opacity:1;stroke-width:11.244"
-     x="336.92865"
+     x="253.92865"
      y="958.51562"
      id="text229"
      transform="scale(1.0034375,0.99657427)"
      inkscape:label="text229"><tspan
        sodipodi:role="line"
        id="tspan227"
-       x="336.92865"
+       x="256.92865"
        y="958.51562"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:11.244">FRAMEWORK</tspan></text>
 </svg>
