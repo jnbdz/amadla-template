@@ -1,6 +1,6 @@
-<img src="./assets/amadla-logo-framework.svg" alt="Amadla logo" style="width: 450px;" align="right">
+<img src="./assets/amadla-template-logo.svg" alt="Amadla template logo" style="width: 450px;" align="right">
 
-# Amadla-Framework
+# Amadla Template
 
 [![Language: English](https://img.shields.io/badge/Language-English-blue.svg)](./README.md)
 [![Language: Français](https://img.shields.io/badge/Langue-Fran%C3%A7ais-blue.svg)](./README.fr.md)
@@ -16,11 +16,11 @@ When it comes to the documentation what is found in this repository is a general
 The documentation found in the [Amadla CLI](https://github.com/AmadlaOrg/amadla-cli) repository is a documentation for the Amadla CLI. It also covers some of the Amadla concepts but the documentation found here goes into more details.
 
 ## :books: Documentations
-- :card_index_dividers: [html](https://amadla.org/Amadla-Framework/docs/latest/html/en/)
-- :briefcase: [pdf](https://amadla.org/Amadla-Framework/docs/latest/pdf/en/)
-- :green_book: [epub](https://amadla.org/Amadla-Framework/docs/latest/epub/en/)
-- :memo: [wiki](https://github.com/AmadlaOrg/Amadla-Framework/wiki)
-- :open_book: [readthedocs](https://amadla-framework.readthedocs.io/en/latest/)
+- :card_index_dividers: [html](https://amadla.org/amadla-template/docs/latest/html/en/)
+- :briefcase: [pdf](https://amadla.org/amadla-template/docs/latest/pdf/en/)
+- :green_book: [epub](https://amadla.org/amadla-template/docs/latest/epub/en/)
+- :memo: [wiki](https://github.com/AmadlaOrg/amadla-template/wiki)
+- :open_book: [readthedocs](https://amadla-template.readthedocs.io/en/latest/)
 
 ### :fleur_de_lis: Why is the documentation also in French?
 
