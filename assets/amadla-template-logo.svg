@@ -4,7 +4,7 @@
    width="1000"
    height="1000"
    id="svg891"
-   sodipodi:docname="amadla-logo-framework.svg"
+   sodipodi:docname="amadla-template-logo.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -143,9 +143,9 @@
   <rect
      style="fill:#585858;fill-opacity:1;stroke-width:1.30639"
      id="rect1826"
-     width="746.98175"
+     width="606.98175"
      height="115.62724"
-     x="251.61163"
+     x="351.61163"
      y="863.93909" />
   <text
      xml:space="preserve"
@@ -157,7 +157,7 @@
      inkscape:label="text229"><tspan
        sodipodi:role="line"
        id="tspan227"
-       x="256.92865"
+       x="368.92865"
        y="958.51562"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:11.244">FRAMEWORK</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:11.244">TEMPLATE</tspan></text>
 </svg>
